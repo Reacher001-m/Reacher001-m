@@ -5,8 +5,9 @@ In high school, I mainly participated in competitions related to data science an
 In the future, I would like to major in and research fields such as LLM or machine learning.
 
 ## ⭐ Programming language to use... 
-- C++
-- Python
+- ![C++](https://img.shields.io/badge/C++-17-blue)
+- [Python](https://img.shields.io/badge/Python-3-yellow)
+- ROS2
 
 ## 🔥 Areas I'm currently working on or interested in.
 - Competitive programming
