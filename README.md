@@ -16,4 +16,4 @@ In the future, I would like to major in and research fields such as LLM or machi
 - machine learning
 
 ## 🛠️Things I've made so far.
-- [Chrome Extension for Paper Reading](https://github.com/Taiyo3901/Hackathon.v1/tree/Release)
+- [Chrome Extension for PDF viewer](https://github.com/Taiyo3901/Hackathon.v1/tree/Release)
