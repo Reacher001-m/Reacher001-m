@@ -25,6 +25,3 @@ In the future, I would like to major in and research fields such as LLM or machi
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reacher001-m&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Reacher001-m&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,docker,git,github,vscode)](https://skillicons.dev)
-
-
-![](https://komarev.com/ghpvc/?username=Reacher001-m)
