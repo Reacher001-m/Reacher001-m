@@ -18,4 +18,13 @@ In the future, I would like to major in and research fields such as LLM or machi
 ## 🛠️Things I've made so far.
 - [Chrome Extension for PDF viewer](https://github.com/Taiyo3901/Hackathon.v1/tree/Release)
 
+## now status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reacher001-m&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reacher001-m&layout=compact&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reacher001-m&theme=github-dark)](https://github.com/Reacher001-m)
+![GitHub Streak](https://streak-stats.demolab.com?user=Reacher001-m&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Reacher001-m&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,docker,git,github,vscode)](https://skillicons.dev)
+
+
+![](https://komarev.com/ghpvc/?username=Reacher001-m)
