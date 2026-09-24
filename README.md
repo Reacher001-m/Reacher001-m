@@ -18,6 +18,7 @@ In the future, I would like to major in and research fields such as LLM or machi
 ## 🛠️Things I've made so far.
 - [Chrome Extension for PDF viewer](https://github.com/Taiyo3901/Hackathon.v1/tree/Release)
 - [Personal Introduction Site](https://gasu-3-history.yuusi.workers.dev/)
+- [Learn basic Git/GitHub operations through hands-on practice.](https://reacher001-m.github.io/git_test/)
 
 ## now status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reacher001-m&show_icons=true)
