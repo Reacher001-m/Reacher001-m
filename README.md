@@ -1,28 +1,41 @@
-# Hello! Thank you for checking out my repository. 
-My name on GitHub is Reacher001-m.
-I am a first-year university student.
-In high school, I mainly participated in competitions related to data science and reinforcement learning.
-In the future, I would like to major in and research fields such as LLM or machine learning.
+# 自己紹介
+情報工学部１年生(歴３年目ぐらい？)
 
-## Programming language to use.
-- c++
-- Python
-- ROS2
+身内でチーム開発を何回かしており、大学生になってからハッカソンによく参加してます。
 
-## Areas I'm currently working on or interested in.
-- Competitive programming
-- 3D CAD(Fusion,Blender)
-- hackathons
-- machine learning
+興味がある分野は機械学習やLLMといった分野で、RAGやAIエージェントを組み込んだサービスを作りたいです。
 
-## Things I've made so far.
-- [Chrome Extension for PDF viewer](https://github.com/Taiyo3901/Hackathon.v1/tree/Release)
-- [Personal Introduction Site](https://gasu-3-history.yuusi.workers.dev/)
-- [Learn basic Git/GitHub operations through hands-on practice.](https://reacher001-m.github.io/git_test/)
 
-## now status
+## 技術スタック
+
+[![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp,git,linux)](https://skillicons.dev)
+
+バイブコーディングでhtml,css,js,ts類はできますが、まだ理解が浅いです。
+
+開発環境を整えるのが得意です(???)
+
+
+## やってきたこと
+- CAD関連(fusion360,blender,free cad)
+- lego(WRO2024)
+- ハッカソンや大会
+- 機械学習
+- データサイエンス
+- 競技プログラミング ([Atcoder アカウント](https://atcoder.jp/users/reacher1357))
+- ローカルLLM(qwen3.8 8B)
+
+詳しくは[こちら](https://gasu-3-history.yuusi.workers.dev/)へ
+
+
+## これまで作ってきたもの
+- [PDFの表示拡張機能](https://github.com/Taiyo3901/PDFren)
+- [マイポートフォリオ](https://gasu-3-history.yuusi.workers.dev/)
+- [git,githubの操作練習サイト](https://reacher001-m.github.io/git_test/)
+- [ショートカットキーを活用したダンジョンwebゲーム](https://github.com/jphacks/ng_2611)
+
+
+## 活動歴
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reacher001-m&layout=compact&theme=tokyonight)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reacher001-m&theme=github-dark)](https://github.com/Reacher001-m)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reacher001-m&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reacher001-m&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,linux,docker,git,github,vscode)](https://skillicons.dev)
+
