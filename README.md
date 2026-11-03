@@ -34,7 +34,7 @@
 - [自動で略称を作ってくれるサイト](https://github.com/hatimitsu618-netizen/madide-kudaranai-site)
 
 
-## 活動歴
+## 駆動時間
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reacher001-m&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Reacher001-m&theme=tokyonight)
