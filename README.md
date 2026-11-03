@@ -22,7 +22,7 @@
 - 機械学習(PyBullet)
 - データサイエンス
 - 競技プログラミング ([Atcoder アカウント](https://atcoder.jp/users/reacher1357))
-- ローカルLLM(qwen3.8 8B)
+- ローカルLLM(qwen3 8B)
 
 詳しくは[こちら](https://gasu-3-history.yuusi.workers.dev/)へ
 
