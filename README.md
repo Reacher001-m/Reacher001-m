@@ -19,7 +19,7 @@
 - CAD関連(fusion360,blender,free cad)
 - lego(WRO2024)
 - ハッカソンや大会
-- 機械学習
+- 機械学習(PyBullet)
 - データサイエンス
 - 競技プログラミング ([Atcoder アカウント](https://atcoder.jp/users/reacher1357))
 - ローカルLLM(qwen3.8 8B)
