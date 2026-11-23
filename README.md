@@ -3,7 +3,7 @@
 <a href="https://gasu-3-history.yuusi.workers.dev/"><img src="./assets/profile/portfolio.svg" alt="Portfolio" height="35"></a>
 <a href="https://atcoder.jp/users/reacher1357"><img src="./assets/profile/atcoder.svg" alt="AtCoder" height="35"></a>
 
-<img src="./assets/profile/experience.svg" width="100%" alt="$ cat stack.txt | Python, C, C++, Git, Linux">
+<img src="./assets/profile/experience.svg" width="100%" alt="$ cat stack.txt | Languages — Python · C · C++ · TypeScript · JavaScript / Apps — Flutter (Dart) · Streamlit · WXT / Backend — FastAPI · Node.js / Cloud — Cloudflare Workers · Cloud Run / Data &amp; auth — Firestore · Firebase Authentication / Tools — Docker · Git · Linux">
 
 <img src="./assets/profile/languages.svg" width="100%" alt="Primary language share across 10 classified public non-fork repos: TypeScript 50%, C++ 10%, CSS 10%, HTML 10%, JavaScript 10%, Python 10%">
 

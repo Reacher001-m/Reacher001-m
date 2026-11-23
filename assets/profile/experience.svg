@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="85" viewBox="0 0 640 85" role="img" aria-label="Skills">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-label="Technology stack">
   <rect width="100%" height="100%" rx="8" fill="#0d1511"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><text x="20" y="31" fill="#67ef99" font-size="21">~ $ cat stack.txt</text><path d="M20 42H619" pathLength="1" stroke="#67ef99" opacity=".45"/><style>@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}@media(prefers-reduced-motion:no-preference){path{stroke-dasharray:1;animation:draw 1s ease-out both}}</style><text x="20" y="70" fill="#ffffff" font-size="21">Python  /  C  /  C++  /  Git  /  Linux</text></g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><text x="20" y="31" fill="#67ef99" font-size="21">~ $ cat stack.txt</text><path d="M20 42H619" pathLength="1" stroke="#67ef99" opacity=".45"/><style>@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}@media(prefers-reduced-motion:no-preference){path{stroke-dasharray:1;animation:draw 1s ease-out both}}</style><g transform="translate(20 75)"><text fill="#67ef99" font-size="18">Languages</text><text x="141" fill="#ffffff" font-size="18">Python · C · C++ · TypeScript · JavaScript</text></g>
+<g transform="translate(20 107)"><text fill="#67ef99" font-size="18">Apps</text><text x="141" fill="#ffffff" font-size="18">Flutter (Dart) · Streamlit · WXT</text></g>
+<g transform="translate(20 139)"><text fill="#67ef99" font-size="18">Backend</text><text x="141" fill="#ffffff" font-size="18">FastAPI · Node.js</text></g>
+<g transform="translate(20 171)"><text fill="#67ef99" font-size="18">Cloud</text><text x="141" fill="#ffffff" font-size="18">Cloudflare Workers · Cloud Run</text></g>
+<g transform="translate(20 203)"><text fill="#67ef99" font-size="18">Data &amp; auth</text><text x="141" fill="#ffffff" font-size="18">Firestore · Firebase Authentication</text></g>
+<g transform="translate(20 235)"><text fill="#67ef99" font-size="18">Tools</text><text x="141" fill="#ffffff" font-size="18">Docker · Git · Linux</text></g></g>
 </svg>
