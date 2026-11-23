@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="208" viewBox="0 0 960 208" role="img" aria-labelledby="title">
+  <title id="title">Reacher001-m</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#163b30"/></pattern>
+    <linearGradient id="wash"><stop stop-color="#09241b"/><stop offset="1" stop-color="#103b2d"/></linearGradient>
+  </defs>
+  <style>
+    @keyframes trace { from { stroke-dashoffset:1 } to { stroke-dashoffset:0 } }
+    @keyframes arrive { from { opacity:0 } to { opacity:1 } }
+    @media (prefers-reduced-motion:no-preference) {
+      .trace { stroke-dasharray:1; animation:trace 1.5s ease-out both }
+      .nodes { animation:arrive .45s 1.05s both }
+    }
+  </style>
+  <rect width="960" height="208" rx="18" fill="url(#wash)"/>
+  <rect width="960" height="208" rx="18" fill="url(#grid)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path class="trace" pathLength="1" d="M590 151h54l40-40h55l58-58h77" stroke="#67efab" stroke-width="4"/>
+    <path class="trace" pathLength="1" d="M650 171h57l35-35h61l52-52h62" stroke="#319b70" stroke-width="2"/>
+    <path class="trace" pathLength="1" d="M739 111l30 30h91" stroke="#399c72" stroke-width="2"/>
+  </g>
+  <g class="nodes" fill="#b8fbd7" stroke="#154833" stroke-width="3"><circle cx="739" cy="111" r="5"/><circle cx="874" cy="53" r="7"/><circle cx="917" cy="84" r="4"/><circle cx="860" cy="141" r="4"/></g>
+  <text x="43" y="125" fill="#acf9cc" font-family="ui-monospace,monospace" font-weight="700" font-size="70" letter-spacing="-4">Reacher001-m</text>
+</svg>

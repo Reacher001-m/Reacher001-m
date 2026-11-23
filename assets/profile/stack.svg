@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="36" viewBox="0 0 388 36">
+  <title>Python, C, C++, Git, Linux</title>
+  <g fill="#102e23" stroke="#286343"><rect x="1" y="1" width="90" height="32" rx="6"/><rect x="99" y="1" width="40" height="32" rx="6"/><rect x="147" y="1" width="62" height="32" rx="6"/><rect x="217" y="1" width="62" height="32" rx="6"/><rect x="287" y="1" width="84" height="32" rx="6"/></g>
+  <g fill="#a7f3c9" font-family="monospace" font-size="15" text-anchor="middle"><text x="46" y="23">Python</text><text x="119" y="23">C</text><text x="178" y="23">C++</text><text x="248" y="23">Git</text><text x="329" y="23">Linux</text></g>
+</svg>
