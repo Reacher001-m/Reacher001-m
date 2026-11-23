@@ -5,12 +5,17 @@
 
 <img src="./assets/profile/experience.svg" width="100%" alt="$ cat stack.txt | Python, C, C++, Git, Linux">
 
+<img src="./assets/profile/languages.svg" width="100%" alt="Primary language share across 10 classified public non-fork repos: TypeScript 50%, C++ 10%, CSS 10%, HTML 10%, JavaScript 10%, Python 10%">
+
 <img src="./assets/profile/projects.svg" width="100%" alt="$ ls projects/">
 
-<a href="https://github.com/jphacks/ng_2611"><img src="./assets/profile/dungeon.svg" alt="Shortcut dungeon" height="35"></a>
-<a href="https://github.com/Taiyo3901/PDFren"><img src="./assets/profile/pdf.svg" alt="PDFren" height="35"></a>
-<a href="https://reacher001-m.github.io/git_test/"><img src="./assets/profile/git.svg" alt="Git practice" height="35"></a>
-<a href="https://github.com/hatimitsu618-netizen/madide-kudaranai-site"><img src="./assets/profile/abbrev.svg" alt="Abbreviation generator" height="35"></a>
+<a href="https://github.com/jphacks/ng_2611"><img src="./assets/profile/dungeon.svg" width="100%" alt="Shortcut Key Dungeon — Copy crates and undo moves to escape each room. Repository."></a>
+
+<a href="https://github.com/Taiyo3901/PDFren"><img src="./assets/profile/pdf.svg" width="100%" alt="PDFren — Read PDFs side by side and copy equations as LaTeX. Repository."></a>
+
+<a href="https://git-test.yuusi.workers.dev/"><img src="./assets/profile/git.svg" width="100%" alt="Git Operations Sandbox — Practice merges and inspect the branch graph. Try it."></a>
+
+<a href="https://github.com/hatimitsu618-netizen/madide-kudaranai-site"><img src="./assets/profile/abbrev.svg" width="100%" alt="Abbreviation Generator — Turn a phrase into a random nickname and share it on X. Repository."></a>
 
 <img src="./assets/profile/activity.svg" width="100%" alt="GitHub activity">
 

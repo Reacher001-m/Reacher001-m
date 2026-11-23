@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="107" height="35" viewBox="0 0 107 35" role="img" aria-label="PDFren">
-  <rect width="100%" height="100%" rx="8" fill="#0d1511"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><text x="12" y="23" fill="#67ef99" font-size="16">&gt;</text><text x="33" y="23" fill="#ffffff" font-size="16">PDFren</text></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="106" viewBox="0 0 640 106" role="img">
+<title>PDFren</title>
+<rect width="640" height="106" rx="8" fill="#0d1511"/>
+<g font-family="ui-monospace, Consolas, monospace">
+<text x="18" y="25" font-size="15" fill="#67ef99" >Chrome extension / PDF viewer</text>
+<text x="18" y="56" font-size="25" fill="#ffffff" font-weight="bold">PDFren</text>
+<text x="621" y="54" font-size="16" fill="#67ef99" text-anchor="end">Repository ↗</text>
+<text x="18" y="85" font-size="17" fill="#ffffff" >Read PDFs side by side and copy equations as LaTeX.</text>
+</g></svg>

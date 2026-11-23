@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="258" viewBox="0 0 640 258" role="img">
+<title>Primary languages by repository count</title>
+<rect width="640" height="258" rx="8" fill="#0d1511"/>
+<g font-family="ui-monospace, Consolas, monospace">
+<text x="20" y="32" font-size="21" fill="#67ef99" >~ $ languages --by-repo</text>
+<text x="20" y="60" font-size="16" fill="#ffffff" >10 classified public repos / forks excluded / 2026-11-23</text>
+<text x="20" y="94" font-size="17" fill="#ffffff" >TypeScript</text><rect x="169" y="81" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="81" width="176.5" height="12" rx="4" fill="#67ef99"/><text x="615" y="94" font-size="17" fill="#67ef99" text-anchor="end">50%</text>
+<text x="20" y="122" font-size="17" fill="#ffffff" >C++</text><rect x="169" y="109" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="109" width="35.300000000000004" height="12" rx="4" fill="#67ef99"/><text x="615" y="122" font-size="17" fill="#67ef99" text-anchor="end">10%</text>
+<text x="20" y="150" font-size="17" fill="#ffffff" >CSS</text><rect x="169" y="137" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="137" width="35.300000000000004" height="12" rx="4" fill="#67ef99"/><text x="615" y="150" font-size="17" fill="#67ef99" text-anchor="end">10%</text>
+<text x="20" y="178" font-size="17" fill="#ffffff" >HTML</text><rect x="169" y="165" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="165" width="35.300000000000004" height="12" rx="4" fill="#67ef99"/><text x="615" y="178" font-size="17" fill="#67ef99" text-anchor="end">10%</text>
+<text x="20" y="206" font-size="17" fill="#ffffff" >JavaScript</text><rect x="169" y="193" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="193" width="35.300000000000004" height="12" rx="4" fill="#67ef99"/><text x="615" y="206" font-size="17" fill="#67ef99" text-anchor="end">10%</text>
+<text x="20" y="234" font-size="17" fill="#ffffff" >Python</text><rect x="169" y="221" width="353" height="12" rx="4" fill="#243b2d"/><rect x="169" y="221" width="35.300000000000004" height="12" rx="4" fill="#67ef99"/><text x="615" y="234" font-size="17" fill="#67ef99" text-anchor="end">10%</text>
+</g></svg>
