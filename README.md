@@ -9,7 +9,7 @@
 
 興味があるのは機械学習とLLMです。手元でQwen3 8Bを動かしながら、RAGやAIエージェントを組み込んだサービスを作りたいと思っています。
 
-## <img src="./assets/profile/projects.svg" alt="制作物" height="36">
+## <img src="./assets/profile/projects.svg" alt="制作物" width="100%">
 
 | プロジェクト | できること |
 | --- | --- |
@@ -18,7 +18,7 @@
 | [Git・GitHub 操作練習サイト](https://reacher001-m.github.io/git_test/) | GitとGitHubの基本操作を練習 |
 | [略称ジェネレーター](https://github.com/hatimitsu618-netizen/madide-kudaranai-site) | 入力した言葉から略称を自動生成 |
 
-## <img src="./assets/profile/experience.svg" alt="技術と経験" height="36">
+## <img src="./assets/profile/experience.svg" alt="技術と経験" width="100%">
 
 ![Python、C、C++、Git、Linux](./assets/profile/stack.svg)
 
@@ -28,16 +28,12 @@
 - **機械学習**　PyBulletを使った機械学習やデータサイエンスに取り組んできました。
 - **競技プログラミング**　AtCoderでは `reacher1357` で参加しています。
 
-## <img src="./assets/profile/activity.svg" alt="GitHubでの活動" height="36">
+## <img src="./assets/profile/activity.svg" alt="GitHubでの活動" width="100%">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reacher001-m&amp;theme=vue&amp;title_color=94F3BA&amp;text_color=B2E5C5&amp;bg_color=0C241B&amp;border_color=286343&amp;icon_color=63D892&amp;chart_color=48CC85&amp;duration=1.4&amp;animation=draw" alt="GitHubのコントリビューション推移" width="96%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reacher001-m&amp;theme=vue&amp;title_color=175B37&amp;text_color=265E40&amp;bg_color=FFFFFF&amp;border_color=C6E2CF&amp;icon_color=21834C&amp;chart_color=29874F&amp;duration=1.4&amp;animation=draw" alt="GitHubのコントリビューション推移" width="96%">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reacher001-m&amp;theme=vue&amp;title_color=94F3BA&amp;text_color=B2E5C5&amp;bg_color=0C241B&amp;border_color=286343&amp;icon_color=63D892&amp;chart_color=48CC85&amp;duration=1.4&amp;animation=draw" alt="リポジトリ数で見る使用言語" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reacher001-m&amp;theme=vue&amp;title_color=94F3BA&amp;text_color=B2E5C5&amp;bg_color=0C241B&amp;border_color=286343&amp;icon_color=63D892&amp;chart_color=48CC85&amp;duration=1.4&amp;animation=draw" alt="コミット数で見る使用言語" width="48%">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reacher001-m&amp;theme=vue&amp;title_color=94F3BA&amp;text_color=B2E5C5&amp;bg_color=0C241B&amp;border_color=286343&amp;icon_color=63D892&amp;chart_color=48CC85&amp;duration=1.4&amp;animation=stagger" alt="コミット・プルリクエストなどの活動統計" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reacher001-m&amp;theme=vue&amp;title_color=94F3BA&amp;text_color=B2E5C5&amp;bg_color=0C241B&amp;border_color=286343&amp;icon_color=63D892&amp;chart_color=48CC85&amp;duration=1.4&amp;animation=draw&amp;utcOffset=9" alt="時間帯別のコミット数（日本時間）" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reacher001-m&amp;theme=vue&amp;title_color=175B37&amp;text_color=265E40&amp;bg_color=FFFFFF&amp;border_color=C6E2CF&amp;icon_color=21834C&amp;chart_color=29874F&amp;duration=1.4&amp;animation=stagger&amp;hide_logo=true" alt="コミット・プルリクエストなどの活動統計" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reacher001-m&amp;theme=vue&amp;title_color=175B37&amp;text_color=265E40&amp;bg_color=FFFFFF&amp;border_color=C6E2CF&amp;icon_color=21834C&amp;chart_color=29874F&amp;duration=1.4&amp;animation=draw&amp;utcOffset=9" alt="時間帯別のコミット数（日本時間）" width="48%">
 </p>
